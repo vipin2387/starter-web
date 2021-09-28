@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
 
 ## How to Contribute
 This is a test repository to learn Git compare and merge
+
+## Copyright
+2021. Training purpose only
